@@ -1,0 +1,27 @@
+{
+	"name": "mains-io",
+	"version": "0.1.0",
+	"description": "Raspberry Pi GPIO experiment: Sensing and controlling mains voltages",
+	"homepage": "https://pdcastro.github.io/mains-io",
+	"main": "build/index.js",
+	"types": "build/index.d.ts",
+	"author": "Paulo Castro",
+	"license": "MIT",
+	"files": [
+		"build/"
+	],
+	"scripts": {
+		"clean": "rm -rf build",
+		"build": "npm run clean && tsc",
+		"lint": "balena-lint --typescript --fix lib",
+		"test": "npm run build && npm run lint",
+		"prepack": "npm run build"
+	},
+	"dependencies": {
+		"array-gpio": "^1.6.6"
+	},
+	"devDependencies": {
+		"@balena/lint": "^6.2.0",
+		"typescript": "^4.7.4"
+	}
+}
