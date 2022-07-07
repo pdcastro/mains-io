@@ -1,0 +1,56 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    // font-family: Courier, 'Courier New', monospace;
+    // font-family: Georgia, 'Times New Roman', serif, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header h1 {
+    margin-left: 0;
+    font-family: inherit;
+}
+
+header h1:before {
+    all: initial;
+    // content: "";
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+}
+
+ul li {
+    list-style-image: initial;
+}
+
+ul li::marker {
+    color: $conifer;
+}
+
+th {
+    border-bottom: 1px solid #b5e853;
+}
+
+td {
+    border-bottom:  1px dashed #b5e853;    
+}
+
+th, td {
+    border-right: none;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+// th:last-child, td:last-child {
+//     border-right:  none;
+// }
+
+// tr:last-child td {
+//     border-bottom: none;
+// }
