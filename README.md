@@ -1,10 +1,11 @@
 # Sensing and controlling mains voltages with a Raspberry Pi
 
+
+**Check the article published at: https://pdcastro.github.io/mains-io**
+
 This repo contains:
 
-* `docs` folder - The contents of an article (Jekyll website) about sensing and
-  controlling mains voltages with a Raspberry Pi and solid state relays (SSRs).
-  The article is hosted by GitHub Pages at: https://pdcastro.github.io/mains-io
+* `docs` folder - Contents of the article (Jekyll website) linked above.
 
 * `lib`, `scripts`, `Dockerfile` and others - Trivial Raspberry Pi app to support some
   experiments. The app monitors a GPIO input pin and replicates the input state to an
