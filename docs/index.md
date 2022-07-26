@@ -7,6 +7,9 @@ layout: default
 
 By [Paulo Castro](https://github.com/pdcastro), July 2022
 
+> This article is hosted by GitHub Pages at: [https://pdcastro.github.io/mains-io](https://pdcastro.github.io/mains-io)  
+> If you are reading the markdown source, check the hosted site for a better experience!
+
 - [Introduction](#introduction)
 - [Safety first](#safety-first)
 - [Solid state relays _vs._ electromechanical relays](#solid-state-relays-vs-electromechanical-relays)
@@ -717,6 +720,9 @@ connection with the information in this article or the use or other dealings in 
 ## Discussion
 
 Leave your comments below, or head straight to the repo's [Discussions](https://github.com/pdcastro/mains-io/discussions/) section.
+
+If you liked this article, give the source repo a star on GitHub!  
+<a class="github-button" href="https://github.com/pdcastro/mains-io" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" aria-label="Star pdcastro/mains-io on GitHub">Star</a>
 
 <script src="https://giscus.app/client.js"
         data-repo="pdcastro/mains-io"
