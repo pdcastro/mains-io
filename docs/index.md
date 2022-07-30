@@ -41,10 +41,14 @@ current transducers or other [current sensors](https://en.wikipedia.org/wiki/Cur
 But I needed to detect a mains voltage, not current, as if detecting that a cable was energized
 by the flick of a switch without any load connected to it (other than the sensor itself).
 
-Other search results pointed to using electromechanical relays (the ones with a wire coil and
-moving contacts). Yet other results pointed to optocoupler / optoisolator microchips, alongside
-circuit diagrams and even PCB (Printed Circuit Board) layouts for the reader to build their own
-board.
+Other search results suggested connecting a USB charger to the mains voltage being detected, and
+using resistors to reduce the 5V output to 3.3V as required by the Pi's GPIO pins. An issue with
+this solution is that it can take several seconds for the 5V output to turn off when the mains
+voltage signal is turned off, which may be too long a delay for some applications.
+
+Yet other results pointed to using electromechanical relays or optocoupler / optoisolator
+microchips, alongside circuit diagrams and even PCB (Printed Circuit Board) layouts for the reader
+to build their own board.
 
 Those are valid solutions, but I was hoping to find ready-made "small boxes" that minimized exposed
 circuit boards and that I could wire directly to the Raspberry Pi without additional components
