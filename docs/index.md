@@ -5,10 +5,15 @@
 layout: default
 ---
 
-By [Paulo Castro](https://github.com/pdcastro), July 2022
+By Paulo Ferreira de Castro ([LinkedIn](https://www.linkedin.com/in/pfcastro/),
+[GitHub](https://github.com/pdcastro)), July 2022
+
+<br/>
 
 > This article is hosted by GitHub Pages at: [https://pdcastro.github.io/mains-io](https://pdcastro.github.io/mains-io)  
 > If you are reading the markdown source, check the hosted site for a better experience!
+
+<br/>
 
 - [Introduction](#introduction)
 - [Safety first](#safety-first)
@@ -24,6 +29,8 @@ By [Paulo Castro](https://github.com/pdcastro), July 2022
 - [Important safety notes](#important-safety-notes)
 - [Disclaimer](#disclaimer)
 - [Discussion](#discussion)
+
+<br/>
 
 ## Introduction
 
