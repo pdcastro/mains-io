@@ -741,3 +741,15 @@ If you liked this article, give the source repo a star on GitHub!
         crossorigin="anonymous"
         async>
 </script>
+
+<br/><br/>
+<hr/>
+
+**Cookies and web traffic monitoring**  
+This page uses [Clicky's](https://clicky.com/101377128) privacy-friendly web traffic monitoring
+service that does not use [tracking cookies](https://en.wikipedia.org/wiki/HTTP_cookie#Tracking).
+The Discussion section is powered by [giscuss.app](https://giscus.app) and the [GitHub
+Discussions](https://docs.github.com/en/discussions) API that may set their own cookies
+that are essential to the feature of posting comments.
+
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101377128ns.gif" /></p></noscript>
