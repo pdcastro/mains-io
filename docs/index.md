@@ -730,7 +730,9 @@ connection with the information in this article or the use or other dealings in 
 
 ## Discussion
 
-Leave your comments below, or head straight to the repo's [Discussions](https://github.com/pdcastro/mains-io/discussions/) section.
+Leave your comments below, or head straight to the repo's
+[Discussions](https://github.com/pdcastro/mains-io/discussions/) section. There is also a thread
+in the [Raspberry Pi forums](https://forums.raspberrypi.com/viewtopic.php?t=338174).
 
 If you liked this article, give the source repo a star on GitHub!  
 <a class="github-button" href="https://github.com/pdcastro/mains-io" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-star" data-size="large" aria-label="Star pdcastro/mains-io on GitHub">Star</a>
